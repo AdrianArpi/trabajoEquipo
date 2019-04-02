@@ -7,7 +7,7 @@ provincia	char(2)not null,
 tipo		char(2),
 fecha_alta	date,
 vendedor	char(3),
-compras		number(10,2)
+compras		number(10,2) --El tipo de dato ya se ha cambiado
 )
 /
 
