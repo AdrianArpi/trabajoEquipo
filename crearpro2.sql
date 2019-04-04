@@ -13,7 +13,7 @@ insert into tprovincia2 values
 ('CC', 'CACERES', 800000);
 insert into tprovincia2 values
 ('B', 'BARCELONA', 200000);
-insert into tprovincia2 values --Otroooo
+insert into tprovincia2 values
 ('S', 'SEVILLA', 600000);
 insert into tprovincia2 values --No se me ocurre nada XD
 ('TE', 'TERUEL', 800000);
